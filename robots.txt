@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://USUARIO.github.io/salvaescalera/sitemap.xml
+Sitemap: https://salvaescalera.com.ar/sitemap.xml
